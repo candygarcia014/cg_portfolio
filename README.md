@@ -1,6 +1,9 @@
-# Portfolio 2.0
-## **Description**
-Personal porfoilio with styling and icons.  
+# Candy Garcia Portfolio 3.0
+
+## Overview
+This is my updated portfoli. All pages have the same nav, footer. There are only 3 pages- Home, portfolio, and contact.  
+
+## Link to the app
 
 
 ## **Table of Contents**
@@ -20,14 +23,14 @@ Personal porfoilio with styling and icons.
 All dependencies are included in the package.json. In your bash/terminal, type  the command "npm i" to install the necessary node modules.
 
 ## **Usage**
-![DEMO]( images/README.gif)
+![DEMO](./assets/images/portf.gif )
 
 
 ## **License**
 This project is covered under the N/A.
 
 ## **Contributing**
-Not accepting contributors. 
+IF you would like to contribute, please email me at Candygarcia014@gmail.com. I'd love to work with you! 
 
 ## **Tests**
 N/A
