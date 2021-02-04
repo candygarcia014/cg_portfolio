@@ -23,7 +23,7 @@ This is my updated portfoli. All pages have the same nav, footer. There are only
 All dependencies are included in the package.json. In your bash/terminal, type  the command "npm i" to install the necessary node modules.
 
 ## **Usage**
-![DEMO](./Assets/images/portf.gif )
+![DEMO](./Assets/Images/portf.gif )
 
 
 ## **License**
